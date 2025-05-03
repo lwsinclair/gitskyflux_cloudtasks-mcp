@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-gitskyflux-cloudtasks-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-gitskyflux-cloudtasks-mcp)
+
 # Cloud Tasks MCP Server
 
 A Model Context Protocol (MCP) server for Google Cloud Tasks that enables interactions with Google Cloud Tasks queues and tasks.
